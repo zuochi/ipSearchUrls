@@ -1,9 +1,3 @@
 [
-  "http://2019.ip138.com/ic.asp",
-  "https://api.ipify.org/",
-  "http://httpbin.org/ip",
-  "https://jsonip.com/",
-  "http://ip.42.pl/raw",
-  "https://ifconfig.me/",
-  "http://ip111.cn/"
+  "http://2019.ip138.com/ic.asp"
 ]
