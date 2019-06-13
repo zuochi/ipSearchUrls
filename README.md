@@ -3,7 +3,6 @@
   "http://httpbin.org/ip",
   "https://jsonip.com/",
   "http://ip.42.pl/raw",
-  "http://2019.ip138.com/ic.asp",
   "https://ifconfig.me/",
   "http://ip111.cn/"
 ]
