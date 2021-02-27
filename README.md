@@ -1,7 +1,4 @@
 [
-  "https://api.ipify.org/",
-  "http://httpbin.org/ip",
-  "https://jsonip.com/",
-  "http://ip.42.pl/raw",
-  "http://ip111.cn/"
+  "http://ip111.cn/",
+  "http://2021.ip138.com/"
 ]
